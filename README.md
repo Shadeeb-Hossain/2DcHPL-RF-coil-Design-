@@ -18,3 +18,8 @@ Frequency_mode_v1.mlapp :_ This MATLAB application is designed to find the corre
 
 
 
+Inductance_app_v1.mlapp : This MATLAB application is used to measure the rectanngular inductance of each coil 
+
+
+
+![image](https://github.com/Shadeeb-Hossain/2DcHPL-RF-coil-Design-/assets/154857980/fde14487-a476-417a-877e-ecfb35b47bd1)
