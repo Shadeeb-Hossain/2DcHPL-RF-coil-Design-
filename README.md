@@ -2,7 +2,13 @@
 Pass Ladder Coil Design enabling Homogeneous
 Excitation in Ultra High-Field MRI**__
 
-The Challenge: At 7T ultra-high-field MRI, standard RF coils suffer from signal shading (inhomogeneity) and high energy absorption (SAR) due to short wavelengths.
+**The Challenge:** At 7T ultra-high-field MRI, standard RF coils suffer from signal shading (inhomogeneity) and high energy absorption (SAR) due to short wavelengths.
+
+**Our Solution:** We developed a volumetric 2D cylindrical high-pass ladder (c-HPL) coil architecture that uses an inductively coupled network of resonators to distribute radiofrequency fields smoothly.
+
+**Project Overview:** Hardware design files, analytical models, and bench-testing scripts for a 2D cylindrical high-pass ladder (c-HPL) MRI volume coil built for 7T ultra-high-field applications.
+
+**Key Components:** MATLAB dispersion equation solvers ($f(\delta, \gamma)$), LC resonator tuning scripts, and S-parameter verification routines ($S_{11}$, $S_{21}$) for 24-element arrays.Tech Stack: MATLAB, Ansys / Vector Network Analyzer (VNA) measurement protocols, and hardware prototyping templates.
 
 
 _![image](https://github.com/Shadeeb-Hossain/2DcHPL-RF-coil-Design-/assets/154857980/2b584ba2-d47a-43fa-89ae-e9bd8e45c123)
