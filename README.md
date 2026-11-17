@@ -2,7 +2,7 @@
 Pass Ladder Coil Design enabling Homogeneous
 Excitation in Ultra High-Field MRI**__
 
-
+The Challenge: At 7T ultra-high-field MRI, standard RF coils suffer from signal shading (inhomogeneity) and high energy absorption (SAR) due to short wavelengths.
 
 
 _![image](https://github.com/Shadeeb-Hossain/2DcHPL-RF-coil-Design-/assets/154857980/2b584ba2-d47a-43fa-89ae-e9bd8e45c123)
